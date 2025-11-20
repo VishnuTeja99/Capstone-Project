@@ -1,2 +1,2 @@
 # Capstone-Project
-Design an implementation of the Patient history tracking ,monitoring and diagnostic system.
+Design of an FPGA Based Patient History Tracking, Monitoring, and Diagnostic Support System 
